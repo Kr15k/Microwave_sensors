@@ -1,4 +1,4 @@
-# This code is not operational
+// This code is not operational
 #define FREQ_PIN 2 // Frequency input from HB100 connected to digital pin 5
 
 unsigned long count;
